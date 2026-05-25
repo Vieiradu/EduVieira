@@ -38,8 +38,8 @@ Responsável pelo desenvolvimento e evolução do CRM, atuando na implementaçã
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Vieiradu/EduVieira/output/dist/github-contribution-grid-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/Vieiradu/EduVieira/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/Vieiradu/EduVieira/output/dist/github-contribution-grid-snake.svg" />
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Vieiradu/EduVieira/output/dist/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Vieiradu/EduVieira/output/github-contribution-grid-snake-dark.svg" />
 </picture>
